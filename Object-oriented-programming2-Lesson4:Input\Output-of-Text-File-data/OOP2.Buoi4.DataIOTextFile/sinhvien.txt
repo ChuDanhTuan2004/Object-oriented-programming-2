@@ -1,0 +1,4 @@
+SV001, Nguyễn Văn A, 9.5, 8.5, 7.5
+SV002, Nguyễn Văn B, 8.5, 7.5, 9.5
+SV003, Nguyễn Văn C, 7.5, 9.5, 8.5
+SV004, Nguyễn Văn D, 10.0, 10.0, 10.0
